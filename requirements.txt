@@ -1,3 +1,5 @@
 fastapi
 dotenv
 uvicorn
+pydantic-settings
+pyyaml
